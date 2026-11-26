@@ -1,4 +1,0 @@
-# Fotos enviadas pelos usuários não vão para o Git
-uploads/*
-!uploads/.htaccess
-!uploads/.gitkeep
